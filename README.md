@@ -1,2 +1,2 @@
 # ESC_engineering
-Analysis scripts of IGVF ESC engineering project.
+This repository contains the jupyter lab notebooks of analysis and plotting of IGVF ESC engineering project.
